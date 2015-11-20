@@ -92,6 +92,8 @@
 *://*.facebook.com/*
 *://*.gmail.com/*
 *://*.inoreader.com/*
+*://youtu.be/*
+*://*.youtu.be/*
 
 [regexp]
 

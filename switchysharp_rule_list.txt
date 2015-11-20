@@ -90,7 +90,7 @@
 *://*.youtube.com/*
 *://*.ytimg.com/*
 *://*.facebook.com/*
-
+*://*.gmail.com/*
 [regexp]
 
 #END

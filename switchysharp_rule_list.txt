@@ -1,6 +1,8 @@
 #BEGIN
 
 [wildcard]
+https://www.google.com/search/*
+
 *://5i01.com/*
 
 *://*.android.com/*
